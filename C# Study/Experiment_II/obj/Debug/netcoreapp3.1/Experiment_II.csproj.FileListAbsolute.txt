@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\bin\Debug\netcoreapp3.1\Experiment_II.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Experiment_II\obj\Debug\netcoreapp3.1\Experiment_II.genruntimeconfig.cache
