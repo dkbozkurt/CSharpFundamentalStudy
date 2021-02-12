@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "54Jjpvbh8A3n0hxbFbBkexlvKThpK5QD8Ez//H/eoU1JgO7AdlAjyhO64+c0phtbKrO7mK8gNi/Ed+yxHU/YBw==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\IfElse_Switch_III\\IfElse_Switch_III.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

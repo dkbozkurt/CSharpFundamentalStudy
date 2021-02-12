@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\bin\Debug\netcoreapp3.1\IfElse_Switch_III.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\IfElse_Switch_III\obj\Debug\netcoreapp3.1\IfElse_Switch_III.genruntimeconfig.cache
