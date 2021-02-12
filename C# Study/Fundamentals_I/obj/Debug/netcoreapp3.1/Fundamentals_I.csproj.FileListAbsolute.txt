@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\bin\Debug\netcoreapp3.1\Fundamentals_I.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Fundamentals_I\obj\Debug\netcoreapp3.1\Fundamentals_I.genruntimeconfig.cache

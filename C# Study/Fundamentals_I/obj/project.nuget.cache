@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "86z3klKM1kOZ+1gQENp3g1hLwnsQ0qHHr5Oals3I6x5RtAHbooy07ReMevwCFc6JTNpmd8mz5+fBOmpZ5MkRvg==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\Fundamentals_I\\Fundamentals_I.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
