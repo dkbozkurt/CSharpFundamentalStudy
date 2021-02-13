@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJwC7v8z7pFLgdCedPZdVsL0SoQ+aiODjJp6AHHGD+w5s4r8J5vPDAUjEDuj4Vb7czO2+Bf8fts/JPcUz0sUXg==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\Loops_IV\\Loops_IV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

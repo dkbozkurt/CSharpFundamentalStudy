@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\bin\Debug\netcoreapp3.1\Loops_IV.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Loops_IV\obj\Debug\netcoreapp3.1\Loops_IV.genruntimeconfig.cache
