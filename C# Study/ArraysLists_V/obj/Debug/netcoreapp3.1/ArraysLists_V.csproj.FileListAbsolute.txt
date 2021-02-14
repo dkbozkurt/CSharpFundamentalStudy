@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\bin\Debug\netcoreapp3.1\ArraysLists_V.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\ArraysLists_V\obj\Debug\netcoreapp3.1\ArraysLists_V.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArraysLists_V/1.0.0": {
+        "runtime": {
+          "ArraysLists_V.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysLists_V/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
