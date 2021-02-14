@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\bin\Debug\netcoreapp3.1\Classes_VII.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Classes_VII\obj\Debug\netcoreapp3.1\Classes_VII.genruntimeconfig.cache

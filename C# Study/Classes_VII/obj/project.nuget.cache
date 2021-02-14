@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmPxYW7Gny5XGHTIFZoX3xqWGMd23eHXzizCOqSdvVCiV6GZheZBLZn6hVHXjqmpEJVgWzdRPDi1TDO2IJc9Yw==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\Classes_VII\\Classes_VII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
