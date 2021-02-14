@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJlUHRpzKoHghbJfupyvbDEMyjhMbSpxdxkrOXwdnxMQQYjUzbOglWxB+w9/LSgwJDrH2wA2Rx1XxsSAynagNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\Encapsulation_VIII\\Encapsulation_VIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

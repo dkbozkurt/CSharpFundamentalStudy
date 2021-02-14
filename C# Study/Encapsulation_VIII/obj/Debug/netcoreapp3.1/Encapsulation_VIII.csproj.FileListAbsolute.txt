@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\bin\Debug\netcoreapp3.1\Encapsulation_VIII.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Encapsulation_VIII\obj\Debug\netcoreapp3.1\Encapsulation_VIII.genruntimeconfig.cache
