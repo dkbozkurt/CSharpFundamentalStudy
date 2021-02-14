@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\bin\Debug\netcoreapp3.1\Methods(Functions)_VI.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\Methods(Functions)_VI\obj\Debug\netcoreapp3.1\Methods(Functions)_VI.genruntimeconfig.cache
