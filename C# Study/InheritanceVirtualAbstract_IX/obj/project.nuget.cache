@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOwz3oy+rPHT4rAgCjvKS+UvjFdcpBlEw4W7gcq+c/d1OzgQI+gq4Wpbowle1llwOtnI6U7bXvS6+fu0rF3YgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\InheritanceVirtualAbstract_IX\\InheritanceVirtualAbstract_IX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\bin\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.genruntimeconfig.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C#\C#_Study\InheritanceVirtualAbstract_IX\obj\Debug\netcoreapp3.1\InheritanceVirtualAbstract_IX.csprojAssemblyReference.cache
