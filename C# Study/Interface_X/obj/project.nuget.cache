@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2pQQjMohVMjmDLCjj7UL2Ce8VcvlXeUMJdwfI7dlMo31FCDZc8X5PnqUk6225p7x0PtCfbeUeQzsJdJLlam2g==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C#\\C#_Study\\Interface_X\\Interface_X.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
