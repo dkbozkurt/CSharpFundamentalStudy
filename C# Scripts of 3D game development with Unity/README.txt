@@ -1,3 +1,3 @@
-C# Scripts to study for 3D Game Development with Unity.
+C# Scripts to study 3D Game Development with Unity.
 
 -Doğukan Kaan Bozkurt
