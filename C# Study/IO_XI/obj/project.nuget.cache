@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QP6KCwG0qWzEHPMJ1brdmGsCc9i10tQrXdrBzVOytZ7biaXlDQCQM7F/EAWdAW+tELaUFD0ArCKnyPwIJIZPhg==",
+  "success": true,
+  "projectFilePath": "D:\\Electrical and Electronics Engineering Files&Tools\\Software\\C# and Unity\\Intermediate OOP C# in Unity\\IO_XI\\IO_XI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan Bozkurt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

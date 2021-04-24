@@ -1,0 +1,13 @@
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.exe
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.deps.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.runtimeconfig.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.runtimeconfig.dev.json
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\bin\Debug\netcoreapp3.1\IO_XI.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.csprojAssemblyReference.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.AssemblyInfoInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.AssemblyInfo.cs
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.csproj.CoreCompileInputs.cache
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.dll
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.pdb
+D:\Electrical and Electronics Engineering Files&Tools\Software\C# and Unity\Intermediate OOP C# in Unity\IO_XI\obj\Debug\netcoreapp3.1\IO_XI.genruntimeconfig.cache
